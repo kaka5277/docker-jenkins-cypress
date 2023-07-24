@@ -1,0 +1,4 @@
+本项目文件夹:docker-jenkins-cypress
+/Users/junlin/docker-jenkins-cypress
+使用 Docker 和 Jenkins 来构建 Cypress 项目:
+https://github.com/kaka5277/docker-jenkins-cypress
